@@ -1,6 +1,6 @@
-(ns quick-sort)
+(ns algorithms-in-clojure.quick-sort)
 
-(defn quick-sort
+(defn quick-sort 
   [col]
   (if (empty? col)
     col

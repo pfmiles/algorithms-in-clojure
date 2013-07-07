@@ -1,4 +1,4 @@
-(ns bubble-sort)
+(ns algorithms-in-clojure.bubble-sort)
 
 ; bubble-sort, two nested "loops".
 (defn bubble-sort 

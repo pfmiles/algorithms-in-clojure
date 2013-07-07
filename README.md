@@ -1,4 +1,13 @@
-algorithms-in-clojure
-=====================
+# algorithms-in-clojure
 
-Any algorithms written in clojure, to prove that functional language is really suitable for describe algorithms. 
+A Clojure library designed to ... well, that part is up to you.
+
+## Usage
+
+FIXME
+
+## License
+
+Copyright © 2013 FIXME
+
+Distributed under the Eclipse Public License, the same as Clojure.
