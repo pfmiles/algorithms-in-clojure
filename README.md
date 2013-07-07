@@ -1,10 +1,6 @@
 # algorithms-in-clojure
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
+Algorithms written in clojure, to prove that clojure is well suited in describing algorithms.
 
 ## License
 
